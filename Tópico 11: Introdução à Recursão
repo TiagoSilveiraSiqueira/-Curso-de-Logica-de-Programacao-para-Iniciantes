@@ -1,0 +1,20 @@
+Explicação:
+
+Recursão é um conceito em que uma função pode chamar a si mesma. Isso é útil para resolver problemas que podem ser divididos em partes menores idênticas.
+
+Exemplo de Código (Fatorial usando Recursão):
+
+def fatorial(n):
+    if n == 0:
+        return 1
+    else:
+        return n * fatorial(n - 1)
+
+resultado = fatorial(5)
+print("Fatorial de 5 é", resultado)
+
+Neste exemplo, a função "fatorial" calcula o fatorial de um número usando recursão.
+
+Exercício:
+
+Tente criar uma função recursiva que calcule a soma dos primeiros "n" números naturais.
