@@ -1,0 +1,11 @@
+Explicação:
+
+Operadores são símbolos que realizam ações em variáveis ou valores. Expressões são combinações de variáveis e operadores. Usamos operadores para fazer cálculos ou tomar decisões em nosso programa.
+
+Exemplo:
+soma = 5 + 3
+é_maior = 10 > 5
+
+Exercício:
+
+Escreva uma expressão que calcule o preço total de 3 itens que custam R$ 10 cada um.
