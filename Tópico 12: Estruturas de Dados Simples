@@ -1,8 +1,9 @@
-Explicação:
+# Explicação:
+Estruturas de dados são formas de organizar e armazenar dados. 
+Duas estruturas simples são pilhas e filas. 
+Pilhas seguem a regra "último a entrar, primeiro a sair" (LIFO), enquanto filas seguem a regra "primeiro a entrar, primeiro a sair" (FIFO).
 
-Estruturas de dados são formas de organizar e armazenar dados. Duas estruturas simples são pilhas e filas. Pilhas seguem a regra "último a entrar, primeiro a sair" (LIFO), enquanto filas seguem a regra "primeiro a entrar, primeiro a sair" (FIFO).
-
-Exemplo de Código (Pilha):
+# Exemplo de Código (Pilha):
 
 pilha = []
 
@@ -17,6 +18,5 @@ print("Pilha após remoção:", pilha)
 
 Este código demonstra uma pilha simples usando uma lista em Python.
 
-Exercício:
-
+# Exercício:
 Tente implementar uma fila simples usando uma lista em Python.
