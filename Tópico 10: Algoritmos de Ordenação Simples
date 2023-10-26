@@ -1,8 +1,9 @@
-Explicação:
+# Explicação:
+Algoritmos de ordenação são usados para organizar uma lista de itens em uma determinada ordem. 
+Um exemplo simples é o algoritmo de bolha. 
+Ele compara os pares de itens adjacentes e os troca até que a lista esteja ordenada.
 
-Algoritmos de ordenação são usados para organizar uma lista de itens em uma determinada ordem. Um exemplo simples é o algoritmo de bolha. Ele compara os pares de itens adjacentes e os troca até que a lista esteja ordenada.
-
-Exemplo de Código (Algoritmo de Bolha):
+# Exemplo de Código (Algoritmo de Bolha):
 
 def ordenar_bolha(lista):
     n = len(lista)
@@ -18,6 +19,5 @@ print("Números ordenados:", numeros)
 
 Este código ordena uma lista de números usando o algoritmo de bolha.
 
-Exercício:
-
+# Exercício:
 Tente criar uma função que ordene uma lista de palavras em ordem alfabética.
