@@ -1,15 +1,15 @@
 # Explicação:
-A manipulação de arquivos permite que você leia e escreva dados em arquivos. 
+A manipulação de arquivos permite que você leia e escreva dados em arquivos. <br /> 
 É útil para salvar informações e ler dados de arquivos existentes.
 
 # Exemplo de Código (Leitura de Arquivo):
 
 # Leitura de um arquivo
-arquivo = open("exemplo.txt", "r")
-conteudo = arquivo.read()
-arquivo.close()
-print("Conteúdo do arquivo:")
-print(conteudo)
+arquivo = open("exemplo.txt", "r")<br /> 
+conteudo = arquivo.read()<br /> 
+arquivo.close()<br /> 
+print("Conteúdo do arquivo:")<br /> 
+print(conteudo)<br /> 
 
 Neste exemplo, lemos o conteúdo de um arquivo chamado "exemplo.txt".
 
