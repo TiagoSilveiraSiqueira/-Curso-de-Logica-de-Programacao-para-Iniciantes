@@ -5,11 +5,11 @@ Se algo for verdadeiro, o programa faz uma coisa; se não, faz outra.<br />
 
 # Exemplo:
 
-    idade = 18<br /> 
-    if idade >= 18:<br /> 
-        print("Você pode votar.")<br /> 
-    else:<br /> 
-        print("Você não pode votar.")<br /> 
+    idade = 18 
+    if idade >= 18:
+        print("Você pode votar.") 
+    else:
+        print("Você não pode votar.")
 
 # Exercício:
 Pense em uma condição que ocorre em sua vida diária (por exemplo, "Se estiver chovendo, vou levar um guarda-chuva"). <br /> 
