@@ -1,10 +1,10 @@
 # Explicação:
-Strings são usadas para armazenar texto. 
+Strings são usadas para armazenar texto. <br /> 
 Você pode realizar várias operações com strings, como concatenação (juntar) e extração de partes.
 
 # Exemplo:
 
-mensagem = "Olá, mundo!"
+mensagem = "Olá, mundo!"<br /> 
 parte = mensagem[0:5]  # Isso extrai "Olá, " da mensagem.
 
 # Exercício:
