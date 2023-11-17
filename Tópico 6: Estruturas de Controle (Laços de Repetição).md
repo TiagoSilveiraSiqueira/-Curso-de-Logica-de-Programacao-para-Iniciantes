@@ -4,7 +4,6 @@ As estruturas de repetição (como "for" e "while") permitem fazer isso.
 É como pedir ao computador para fazer algo repetidamente até que uma condição seja atendida.
 
 # Exemplo:
-
 contador = 0
 while contador < 5:
     print("Olá, mundo!")  # Isso será impresso 5 vezes.
